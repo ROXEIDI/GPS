@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head>
+  <title>Mi Primera Página</title>
+  <meta charset=”utf-8”/>
+</head>
+<body>
+  
+  <iframe id="oak-embed" width="480" height="80" style="display: block; margin: 0px auto; border: 0px;" src="https://embed-countdown.onlinealarmkur.com/es/#2022-10-01T12:00:00@"></iframe>
+
+  <img src="web.jpg"/>
+</body>
+</html>
